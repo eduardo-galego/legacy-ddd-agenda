@@ -1,4 +1,4 @@
-package fiap.scjo.agenda.models;
+package legacy.ddd.agenda.models;
 
 import java.util.Objects;
 

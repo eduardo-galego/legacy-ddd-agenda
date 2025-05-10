@@ -1,4 +1,4 @@
-package fiap.scjo.agenda;
+package legacy.ddd.agenda;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

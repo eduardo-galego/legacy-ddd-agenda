@@ -1,7 +1,11 @@
-package fiap.scjo.agenda.controllers;
+package legacy.ddd.agenda.controllers;
 
-import fiap.scjo.agenda.models.*;
-import fiap.scjo.agenda.repositories.FakeRepo;
+import legacy.ddd.agenda.models.Agenda;
+import legacy.ddd.agenda.models.Local;
+import legacy.ddd.agenda.models.Orgao;
+import legacy.ddd.agenda.repositories.FakeRepo;
+import legacy.ddd.agenda.models.Cidadao;
+import legacy.ddd.agenda.models.Servico;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,9 +1,9 @@
-package fiap.scjo.agenda.repositories;
+package legacy.ddd.agenda.repositories;
 
-import fiap.scjo.agenda.models.Agenda;
-import fiap.scjo.agenda.models.Local;
-import fiap.scjo.agenda.models.Orgao;
-import fiap.scjo.agenda.models.Servico;
+import legacy.ddd.agenda.models.Agenda;
+import legacy.ddd.agenda.models.Local;
+import legacy.ddd.agenda.models.Orgao;
+import legacy.ddd.agenda.models.Servico;
 import org.springframework.stereotype.Repository;
 
 import java.time.LocalDate;
